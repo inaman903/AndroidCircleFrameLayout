@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleFrameLayout">
+        <attr name="borderWidth" format="float" />
+        <attr name="borderColor" format="color" />
+    </declare-styleable>
+</resources>
